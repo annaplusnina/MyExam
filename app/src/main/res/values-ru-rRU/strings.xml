@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyExam</string>
+    <string name="happy_new_year">С Новым годом!</string>
+    <string name="developers">Разработчики</string>
+    <string name="choose_your_gift">Выбери свой подарок</string>
+    <string name="about">Инфо</string>
+    <string name="write_a_letter_to_santa">Напиши письмо Санте</string>
+</resources>
